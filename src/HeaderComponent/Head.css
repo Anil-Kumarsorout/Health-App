@@ -1,0 +1,17 @@
+.my-image{
+    height: 50px;
+}
+.My-lnk{
+    font-size: 1.2em !important;
+    text-decoration: none !important;
+}
+
+
+/* @media (min-width:495px) and (max-width:991.20px){
+    .mynav{
+        width:94vw !important;
+        display: flex !important;
+        justify-content: center !important;
+        margin-left: 20px;
+    }
+} */

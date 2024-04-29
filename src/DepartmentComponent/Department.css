@@ -1,0 +1,6 @@
+@media (min-width:492px) and (max-width:991.20px){
+    .orders-change{
+        display: flex !important;
+        flex-direction: column-reverse !important;
+    }
+}
